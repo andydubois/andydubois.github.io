@@ -1,0 +1,12 @@
+h4 {
+  color: white !important;
+}
+
+.wptMobile {
+  min-width: 100%;
+}
+
+header.masthead {
+  background: url(../img/bg-pattern.png),
+    linear-gradient(to left, #7b4397, #080808) !important;
+}
