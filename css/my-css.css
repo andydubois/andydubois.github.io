@@ -6,7 +6,35 @@ h4 {
   min-width: 100%;
 }
 
-header.masthead {
+.movieGalleryImg {
+    padding-bottom: 20px;
+}
+
+.whosPlayingHeader {
   background: url(../img/bg-pattern.png),
     linear-gradient(to left, #7b4397, #080808) !important;
+}
+
+.movieGalleryHeader {
+     background: url(../img/bg-pattern.png),
+    linear-gradient(to left, #000000, #dc2430) !important;
+}
+
+.social-linked-in {
+    background-color: #09bbff !important;
+    border-radius: 50%;
+}
+
+.social-github {
+   background-color: #000000 !important;
+    border-radius: 50%;
+}
+
+.fullStackHeader {
+    margin-bottom: 0 !important;
+}
+
+.skillList {
+    padding-left: 0;
+    list-style: none;
 }
